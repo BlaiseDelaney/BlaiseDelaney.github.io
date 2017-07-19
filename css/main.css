@@ -18,7 +18,7 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Calisto MT', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -264,7 +264,7 @@ footer {
 }
 
 footer a {
-  color: #404040;
+  color: #66CDAA;
 }
 
 footer .list-inline {
@@ -522,7 +522,7 @@ footer .theme-by {
 
 .header-section.has-img .no-img {
   margin-top: 0;
-  background: #FCFCFC;
+  background: #66CDAA;
   margin: 0 0 40px;
   padding: 20px 0;
   box-shadow: 0 0 5px #AAA;
