@@ -22,15 +22,15 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: #008AFF;
+  color: #0000FF;
 }
 a:hover,
 a:focus {
   color: #DC143C;
 }
 blockquote {
-  color: #808080;
-  font-style: italic;
+  color: #6495ED;
+  font-style: normal;
 }
 blockquote p:first-child {
   margin-top: 0;
