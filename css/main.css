@@ -17,7 +17,13 @@ p a {
   /* text-decoration: underline */
     color: #CD5C5C;
 }
-h1,h2,h3,h4,h5,h6 {
+h1{
+  font-family: 'Lora', 'Times New Roman', serif;
+  /*font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  font-weight: 800;
+  background: #66CDAA;
+}
+h2,h3,h4,h5,h6 {
   font-family: 'Lora', 'Times New Roman', serif;
   /*font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 800;
