@@ -494,7 +494,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lora', 'Times New Roman', serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -586,7 +586,7 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #DC143C;
+  background: #F08080;
   border: 1px solid #DC143C;
 }
 
