@@ -15,14 +15,14 @@ p {
 }
 p a {
   /* text-decoration: underline */
-    color: #6495ED;/*#F08080;*/
+    color: #CD5C5C;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
-  color: #0000FF;
+  color: #CD5C5C;
 }
 a:hover,
 a:focus {
@@ -30,7 +30,7 @@ a:focus {
 }
 blockquote {
   color: #6495ED;
-  font-style: normal;
+  font-style: italic;
 }
 blockquote p:first-child {
   margin-top: 0;
