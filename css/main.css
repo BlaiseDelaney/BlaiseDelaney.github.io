@@ -20,8 +20,9 @@ p a {
 h1{
   font-family: 'Lora', 'Times New Roman', serif;
   /*font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
-  font-weight: 1000;
+  font-weight: 800;
   background: #66CDAA;
+  margin: 2px 0;
 }
 h2,h3,h4,h5,h6 {
   font-family: 'Lora', 'Times New Roman', serif;
