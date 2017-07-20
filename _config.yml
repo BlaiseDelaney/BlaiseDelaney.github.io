@@ -24,7 +24,9 @@ description: Reflections on Ph.D. life, High Energy Physics and Machine Learning
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-#  Resources:
+  Blog:
+     - Ph.D. Application Advice
+
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
@@ -43,7 +45,7 @@ title-img: ./logo.png
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Blaise Delaney
   email: "bls.delaney@gmail.com"
   github: BlaiseDelaney    # eg. daattali
   twitter: BlaiseDelaney   # eg. daattali
