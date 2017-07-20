@@ -2,7 +2,7 @@
 layout: post
 title: Ph.D. Application Advice
 subtitle: A few tips I learnt along the way
-bigimg: /Users/blaisedelaney/Google Drive/BlaiseDelaney.github.io/img/transition.jpg
+bigimg: /img/path.jpg
 tags: [Ph.D.]
 ---
 
