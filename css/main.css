@@ -15,7 +15,7 @@ p {
 }
 p a {
   /* text-decoration: underline */
-  color: #F08080;
+    color: #6495ED;/*#F08080;*/
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;
