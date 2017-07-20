@@ -11,3 +11,4 @@ Coming soon. My experience on how to successfully gear up towards having a good 
 
 
 [This is just a link to an empty page](https://www.blaisedelaney.science/)
+[This is just another link to an empty page](https://www.blaisedelaney.science/)
