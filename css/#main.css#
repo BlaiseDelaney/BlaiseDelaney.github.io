@@ -318,7 +318,8 @@ footer .theme-by {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #DC143C;
+  color: #FFF;
+  backg
 }
 
 .post-preview .post-title {
@@ -485,8 +486,7 @@ footer .theme-by {
   -moz-box-shadow: 1px 1px 3px #000;
 }
 .intro-header.big-img .post-heading .post-meta {
-    color: #FFF;
-    background: #DC143C;
+  color: #F08080;
 }
 .intro-header.big-img .img-desc {
   background: rgba(30, 30, 30, 0.6);
