@@ -25,7 +25,7 @@ description: Reflections on Ph.D. life, High Energy Physics and Machine Learning
 navbar-links:
   About Me: "aboutme"
   Blog:
-     - Ph.D. Application Advice
+     - Ph.D. Application Advice: "https://blaisedelaney.github.io/2017-07-20-phd-application-advice/"
 
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -38,7 +38,7 @@ avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "./logo.png"
+#title-img: "./logo.png"
 
 # --- Footer options --- #
 
