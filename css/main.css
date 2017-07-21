@@ -22,7 +22,6 @@ h1{
   /*font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 800;
   background: #66CDAA;
-  position: relative;
 }
 h2,h3,h4,h5,h6 {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -45,7 +44,7 @@ blockquote p:first-child {
 }
 hr.small {
   max-width: 100px;
-  margin: 15px auto;
+  margin: 70px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
