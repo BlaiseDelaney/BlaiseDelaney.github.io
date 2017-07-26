@@ -58,7 +58,7 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 0px; /*80px*/
+  padding-top: 80px; /*80px*/
 }
 @media only screen and (min-width: 768px) {
   .main-content {
@@ -309,8 +309,8 @@ footer .theme-by {
 /* --- Post preview --- */
 
 .post-preview {
-  padding: 20px 0;
-  border-bottom: 1px solid #eee;
+  padding: 200px 0; /*20 px 0;*/
+  border-bottom: 1px solid #8B0000; /*#eee*/
 }
 
 @media only screen and (min-width: 768px) {
