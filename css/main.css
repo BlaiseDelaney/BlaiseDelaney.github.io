@@ -23,7 +23,7 @@ h1{
   font-weight: 800;
   background: -webkit-linear-gradient(#1E90FF, ##66CDAA);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: #FFF;;
+  -webkit-text-fill-color: transparent;
   /*background: #66CDAA;*/
 }
 h2,h3,h4,h5,h6 {
