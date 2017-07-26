@@ -26,11 +26,6 @@ h1{
   padding: 13px 10px 20px 10px;
 }
 
-h2{
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-weight: 800;
-  font-size: 600%;
-}
 
 h3,h4,h5,h6 {
   font-family: 'Lora', 'Times New Roman', serif;
@@ -488,12 +483,13 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 35px;
+  font-size: 30px;
   line-height: 1.1;
   display: block;
   font-family: 'Lora', 'Times New Roman', serif;
   font-weight: 600;
   margin: 10px 0 0;
+  
 }
 .intro-header .post-heading .post-subheading {
   margin-bottom: 20px;
