@@ -130,8 +130,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #B0E0E6;
-  border-bottom: 1px solid #EAEAEA;
+  background: #dc143;
+  border-bottom: 1px solid #20B2AA;
   font-family: 'Lora', 'Times New Roman', serif;
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
 }
