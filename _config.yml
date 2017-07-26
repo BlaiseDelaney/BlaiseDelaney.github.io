@@ -24,7 +24,7 @@ description: Reflections on Ph.D. life, High Energy Physics and Machine Learning
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-
+    
   
 #     - Ph.D. Application Advice: "https://blaisedelaney.github.io/2017-07-20-phd-application-advice/"
 
@@ -53,7 +53,7 @@ author:
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
+  rss: true
   facebook: false
   email: true
   twitter: true
