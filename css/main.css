@@ -22,7 +22,7 @@ h1{
   /*font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 800;
   /*background: #66CDAA;*/
-  background: linear-gradient(red, yellow); /* Standard syntax */
+  background: linear-gradient(to right, #1E90FF, #66CDAA); /* Standard syntax */ /* Standard syntax */
 }
 }
 h2,h3,h4,h5,h6 {
