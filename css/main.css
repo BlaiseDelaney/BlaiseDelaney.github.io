@@ -129,15 +129,16 @@ img {
 
 /* --- Navbar --- */
 
+/*---setting the colour of navbar/header*/
 .navbar-custom {
   background: #dc143;
-  border-bottom: 1px solid #20B2AA;
+  border-bottom: 1px solid #EAEAEA;
   font-family: 'Lora', 'Times New Roman', serif;
   /*font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
 }
 
 .navbar-custom .nav li a {
-  font-size: 12px;
+  font-size: 24px; /*12px*/
   letter-spacing: 1px;
 }
 
