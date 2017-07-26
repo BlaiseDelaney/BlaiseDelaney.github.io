@@ -145,7 +145,6 @@ img {
 .navbar-custom .nav li a {
   font-weight: 400;
   color: #20B2AA;
-  padding: 10px 10px 50px 50px; /*mod*/
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -241,6 +240,7 @@ img {
 /* Multi-level navigation links */
 .navbar-custom .nav .navlinks-container {
   position: relative;
+  padding: 10px 20px 50px 50px; /* mod */
 }
 .navbar-custom .nav .navlinks-parent:after {
   content: " \25BC";
