@@ -10,7 +10,7 @@ I share an unlikely link with the Nations mentioned above: I am half Irish, half
 
 Other things you might catch me spend time thinking about:
 
-- A good espresso. I'd like to cycle South America visiting coffee plantations.
+- A good espresso. I'd like to cycle around South America visiting coffee plantations.
 - Cycling. 
 - I used to fence a lot during the first half of my undergraduate degree at [Trinity](https://dufencing.wordpress.com), I hope to pick it up again soon.
 - STEM outreach.
