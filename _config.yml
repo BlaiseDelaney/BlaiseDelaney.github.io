@@ -23,7 +23,8 @@ description: A Ph.D. Blog.
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "./aboutme.html"
+  Blog: "http://www.blaisedelaney.science"
+  About Me: "aboutme"
     
   
 #     - Ph.D. Application Advice: "https://blaisedelaney.github.io/2017-07-20-phd-application-advice/"
