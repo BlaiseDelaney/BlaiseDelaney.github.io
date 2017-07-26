@@ -240,7 +240,7 @@ img {
 /* Multi-level navigation links */
 .navbar-custom .nav .navlinks-container {
   position: relative;
-  padding: 10px 20px 50px 50px; /* mod */
+  padding: 50px 50px 50px 50px; /* mod */
 }
 .navbar-custom .nav .navlinks-parent:after {
   content: " \25BC";
