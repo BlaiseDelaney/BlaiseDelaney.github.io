@@ -144,8 +144,8 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
-  color: #008080;
+  font-weight: 400;
+  color: #66CDAA;
 }
 
 .navbar-custom .navbar-brand:hover,
