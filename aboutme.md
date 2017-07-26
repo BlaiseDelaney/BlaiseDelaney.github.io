@@ -17,4 +17,3 @@ Other things you might catch me spend time thinking about:
 - One day I'll learn how to build electric guitars from an expert.
 
 
-<hr>
