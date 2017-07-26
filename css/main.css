@@ -23,6 +23,7 @@ h1{
   font-weight: 800;
   /*background: #66CDAA;*/
   background: linear-gradient(to right, #87CEEB, #66CDAA); /* Standard syntax */ /* Standard syntax */
+  padding: 50px 30px 50px 30px;
 }
 
 
@@ -309,8 +310,8 @@ footer .theme-by {
 /* --- Post preview --- */
 
 .post-preview {
-  padding: 200px 300px; /*20 px 0;*/
-  border-bottom: 1px solid #8B0000; /*#eee*/
+  padding: 20px 0px; /*20 px 0;*/
+  border-bottom: 1px solid #eee; /*#eee*/
 }
 
 @media only screen and (min-width: 768px) {
