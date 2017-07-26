@@ -15,5 +15,4 @@ Other things you might catch me spend time thinking about:
 - I used to fence a lot during the first half of my undergraduate degree at [Trinity](https://dufencing.wordpress.com), I hope to pick it up again soon.
 - STEM outreach.
 - One day I'll learn how to build electric guitars from an expert.
-
-
+<hr>
