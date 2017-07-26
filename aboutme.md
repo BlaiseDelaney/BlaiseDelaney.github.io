@@ -8,7 +8,7 @@ I am an incoming Ph.D. student at the University of Cambridge joining the High E
 
 I share an unlikely link with the Nations mentioned above: I am half Irish, half Indian and I was raised in Italy. Way too many "I"-starting countries on my papers. 
 
-Other things you might catch me spend time thinking about:
+Other things you might catch me spending time thinking about:
 
 - A good espresso. I'd like to cycle around South America visiting coffee plantations.
 - Cycling. 
