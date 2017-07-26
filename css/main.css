@@ -25,11 +25,12 @@ h1{
   background: linear-gradient(to right, #87CEEB, #66CDAA); /* Standard syntax */ /* Standard syntax */
 }
 
+/*
 h2,h3,h4,h5,h6 {
   font-family: 'Lora', 'Times New Roman', serif;
-  /*font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 800;
 }
+*/ 
 a {
   color: #66CDAA;
 }
@@ -47,7 +48,7 @@ blockquote p:first-child {
   margin-top: 0;
 }
 
-
+/*
 hr.small {
   max-width: 100px;
   margin: 15px auto;
@@ -55,7 +56,7 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
-
+*/
 .main-content {
   padding-top: 80px; /*80*/
 }
