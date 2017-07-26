@@ -483,11 +483,11 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 35px;
+  font-size: 40px;
   line-height: 1.1;
   display: block;
   font-family: 'Lora', 'Times New Roman', serif;
-  font-weight: 300;
+  font-weight: 200;
   margin: 5px 0 0;
   
 }
