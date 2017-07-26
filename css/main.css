@@ -42,6 +42,8 @@ blockquote {
 blockquote p:first-child {
   margin-top: 0;
 }
+
+/*
 hr.small {
   max-width: 100px;
   margin: 15px auto;
@@ -49,7 +51,7 @@ hr.small {
   border-color: inherit;
   border-radius: 3px;
 }
-
+*/
 .main-content {
   padding-top: 80px;
 }
