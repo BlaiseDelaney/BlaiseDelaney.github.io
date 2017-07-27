@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me.
+title: About Me
 subtitle: = India+Ireland+Italy+HEP+Arabica. 
 ---
 
