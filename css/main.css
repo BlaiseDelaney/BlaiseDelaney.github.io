@@ -487,6 +487,7 @@ footer .theme-by {
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
+  text-align: center;
   padding: 0px 0;
   color: #FFF;
   font-size: 10px;
@@ -506,7 +507,6 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  background: rgba(48,48,48,0.5);
   border: 0px transparent;
   font-size: 38px;
   line-height: 1.1;
