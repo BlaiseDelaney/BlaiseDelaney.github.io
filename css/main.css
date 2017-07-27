@@ -20,6 +20,7 @@ p a {
 h1{
   font-family: 'Lora', 'Times New Roman', serif;
   /*font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
+  color: #FFF;
   font-weight: 800;
   /*background: #66CDAA;*/
   background: linear-gradient(to right, #87CEEB, #66CDAA); /* Standard syntax */ /* Standard syntax */
