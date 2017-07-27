@@ -490,7 +490,7 @@ footer .theme-by {
   text-align: center;
   padding: 100px 0;
   color: #FFF;
-  text-shadow: 1px 1px 3px #DCDCDC;
+  /*text-shadow: 1px 1px 3px #DCDCDC;*/
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
