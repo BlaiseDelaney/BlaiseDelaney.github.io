@@ -741,6 +741,9 @@ td.gutter {
     .navbar-right{
 	margin-right: 20px;
     }
+    .navbar-left{
+	margin-left: 20px;
+    }
     .navbar-brand-logo{
 	margin-left: 20px;
     }
