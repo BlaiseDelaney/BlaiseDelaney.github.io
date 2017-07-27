@@ -487,7 +487,7 @@ footer .theme-by {
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
-/*  text-align: center; */
+  text-align: center;
   padding: 100px 0;
   color: #FFF;
   text-shadow: 1px 1px 3px #DCDCDC;
