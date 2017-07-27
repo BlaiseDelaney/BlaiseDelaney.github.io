@@ -499,7 +499,7 @@ footer .theme-by {
 .intro-header .post-heading h1 {
   text-align: center;  /* -- mod -- */
   margin-top: 0;
-  font-size: 35px;
+  font-size: 100px; /* -- mod -- */
   background: rgba(48,48,48,0.5);
   border: 0px transparent;
 }
