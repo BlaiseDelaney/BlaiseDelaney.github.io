@@ -27,7 +27,7 @@ h1{
   border: 1px solid green;
 
   /* -- try forcing artificially forcing same font */
-  font-size: 50px;
+  font-size: 100px; /* was 50 */
 }
 
 
@@ -380,7 +380,7 @@ footer .theme-by {
 .post-entry-container {
   display: inline-block;
   width: 100%;
-}
+}9
 .post-entry {
   width: 100%;
 }
@@ -497,7 +497,7 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px; /* double from 50 to 100 */
+  /*font-size: 50px;  double from 50 to 100 */
 }
 .intro-header .post-heading h1 {
   text-align: center;  /* -- mod -- */
