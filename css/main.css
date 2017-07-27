@@ -454,8 +454,9 @@ footer .theme-by {
 }
 /* --- Post and page headers --- */
 
+/* --- Post bkg image --- */
 .intro-header {
-  margin: 80px 90px 20px;/*80 0 20*/
+  margin: 0px 100px 0px 100px;/*80 0 20*/
   position: relative;
 }
 .intro-header.big-img {
