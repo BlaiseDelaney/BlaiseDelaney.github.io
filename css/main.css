@@ -464,8 +464,8 @@ footer .theme-by {
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
-  margin-top: 0px; /* The small navbar is 50px tall + 1px border */
-  margin-bottom: 0px; /*35*/
+  margin-top: 10px; /* The small navbar is 50px tall + 1px border */
+  margin-bottom: 20px; /*35*/
 }
 .intro-header.big-img  .big-img-transition {
   position: absolute;
@@ -488,6 +488,7 @@ footer .theme-by {
 .intro-header.big-img .post-heading {
   padding: 100px 0;
   color: #CD5C5C;
+  font-size: 100px;
   text-shadow: 1px 1px 3px #008080;
 }
 .intro-header .page-heading h1 {
