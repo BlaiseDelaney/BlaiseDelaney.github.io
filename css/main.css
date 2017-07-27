@@ -490,7 +490,9 @@ footer .theme-by {
   text-align: center;
   padding: 100px 0;
   color: #FFF;
-  /*text-shadow: 1px 1px 3px #DCDCDC;*/
+  text-shadow: 1px 1px 3px #DCDCDC;
+  /* -- try adding border -- */
+  border: 0px solid white;
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
@@ -499,7 +501,7 @@ footer .theme-by {
 .intro-header .post-heading h1 {
   text-align: center;  /* -- mod -- */
   margin-top: 0;
-  font-size: 35px; /* -- mod -- */
+  font-size: 50px; /* -- mod, was 35 -- */
   background: rgba(48,48,48,0.5);
   border: 0px transparent;
   font-weight: 300; /* -- insertion, wasn't here -- */
