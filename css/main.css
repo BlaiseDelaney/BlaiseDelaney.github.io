@@ -496,9 +496,9 @@ footer .theme-by {
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 35px;
+  font-size: 50px;
   background: transparent;
-  margin: 0px transparent;
+  margin: 0px solide white;
   padding: 0px 0px 0px 0px;
 }
 .intro-header .page-heading .page-subheading,
