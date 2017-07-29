@@ -42,6 +42,9 @@ My personal blog to share my Ph.D. experience - toughts, code, theory and events
 - Fancy page transitions: especially when navigating subsections of `About` or `Blog`
 - Efficient back-navigation of posts
 - CV not .pdf but a css shorter page
+- ** Schema.org feauture **
+- ** MathJax Local Installation **
+- ** Run Jekyll **
 
 #### Blog Post Model
 
