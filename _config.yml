@@ -52,6 +52,7 @@ author:
   email: "bls.delaney@gmail.com"
   github: BlaiseDelaney    # eg. daattali
   twitter: BlaiseDelaney   # eg. daattali
+  instagram: reallyblaised
 
 # Select which links to show in the footer
 footer-links-active:
@@ -66,7 +67,7 @@ footer-links-active:
   xing: false
   stackoverflow: false
   snapchat: false
-  instagram: false
+  instagram: true
   youtube: false
   spotify: false
   telephone: false
@@ -131,7 +132,7 @@ defaults:
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-# link-tags: false
+link-tags: true
 
 # Exclude these files from production site
 exclude:
