@@ -25,7 +25,7 @@ description: A Ph.D. Blog.
 navbar-links:
   Home: "http://www.blaisedelaney.science"
   About Me: "aboutme"
-  Blog: "http://www.blaisedelaney.science/blog/"
+  Blog: "blog/index"
     
   
 #     - Ph.D. Application Advice: "https://blaisedelaney.github.io/2017-07-20-phd-application-advice/"
