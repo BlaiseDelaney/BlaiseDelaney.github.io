@@ -507,7 +507,7 @@ footer .theme-by {
   background: rgba(45,45,45,0.5);
   border: 0px transparent;
   font-weight: 300; /* -- insertion, wasn't here -- */
-  
+  color:#FFF;  
 }
 .intro-header .post-heading .post-subheading {
   border: 0px transparent;
