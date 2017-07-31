@@ -1,7 +1,0 @@
----                                                                                                                                                    
-   2 │ layout: page                                                                                                                                           
-   3 │ title: Changing Basis.                                                                                                                                 
-   4 │ subtitle: Reflections on Ph.D. life, HEP and Machine Learning.                                                                                         
-   5 │ use-site-title: true                                                                                                                                   
-   6 │ ---                                                                                                                                                    
-   7 │ Hello World!   

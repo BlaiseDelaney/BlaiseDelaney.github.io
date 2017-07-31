@@ -3,7 +3,7 @@ layout: post
 title: Ph.D. Application Advice
 subtitle: A few tips I learnt along the way.
 bigimg: /img/sea.jpeg
-categories: Ph.D.
+categories: Physics
 tags: research academia 
 ---
 
