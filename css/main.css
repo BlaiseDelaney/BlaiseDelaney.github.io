@@ -599,7 +599,8 @@ footer .theme-by {
     text-align: center;  /* -- mod -- */
     margin-top: 0;
     font-size: 35px; /*  -- mod, was 35 -- */
-    background: FFF;;
+    background: FFF;
+    color: #484848;
     border: 0px transparent;
     font-weight: 600; /* -- insertion, wasn't here -- */
   }
@@ -624,9 +625,10 @@ footer .theme-by {
     text-align: center;  /* -- mod -- */
     margin-top: 0;
     font-size: 35px; /*  -- mod, was 35 -- */
-    background: FFF;;
+    background: FFF;
     border: 0px transparent;
     font-weight: 600; /* -- insertion, wasn't here -- */
+    color: #484848;
   }
 }
 
