@@ -22,9 +22,11 @@ h1{
   /*font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 800;
   /*background: #66CDAA;*/
-  background: linear-gradient(to right, #87CEEB, #66CDAA); /* Standard syntax */ /* Standard syntax */
+  background: linear-gradient(to right, #20B2AA, #66CDAA);
+  color: #2F4F4F;
   padding: 13px 10px 20px 10px;
-  border: 1px solid green;
+  border: 1px solid green;*/
+  color: #008B8B;
 
 }
 
