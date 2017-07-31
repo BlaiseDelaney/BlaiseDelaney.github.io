@@ -592,6 +592,8 @@ footer .theme-by {
 @media only screen and (max-width: 365px) {
   .header-section.has-img .intro-header.no-img {
     display: block;
+    text-align: center;
+
   }
   .intro-header.big-img {
     width: 100%;
@@ -608,6 +610,7 @@ footer .theme-by {
 @media only screen and (max-width: 325px) {
   .intro-header.big-img {
     height: 200px;
+    text-align: center;
   }
 }
 
