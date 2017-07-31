@@ -3,6 +3,7 @@ layout: post
 title: Intro to Flavour Physics
 subtitle: A Gentle Recap. 
 bigimg: /img/Mug.jpeg
+category: physics
 tags: research  
 ---
 
