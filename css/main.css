@@ -3,7 +3,8 @@
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+/*font-family: 'Lora', 'Times New Roman', serif; */
+  font-family: 'Libre Franklin', 'Times New Roman', serif;
   font-size: 18px;
   color: #484848;
   /*position: relative;*/
@@ -31,7 +32,7 @@ h1{
 }
 
 
-h3,h4,h5,h6 {
+h2,h3,h4,h5,h6 {
   font-family: 'Lora', 'Times New Roman', serif;
   font-weight: 800;
 }
@@ -46,9 +47,11 @@ a:focus {
 
 
 blockquote {
-  color: #6495ED;
-  font-style: italic;
+color: #DC143C;
+font-style: italic;
+font-size: 21px;
 }
+
 blockquote p:first-child {
   margin-top: 0;
 }
@@ -136,7 +139,7 @@ img {
 .navbar-custom {
   background: #dc143;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;/
+  font-family: 'Libre Franklin', 'Helvetica Neue', Helvetica, Arial, sans-serif;/
 }
 
 .navbar-custom .nav li a {
@@ -370,13 +373,14 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
+  font-family: 'Lora', 'Times New Roman', serif;
   color: #20B2AA;
   font-size: 18px;
   font-style: italic;
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Libre Franklin', 'Times New Roman', serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -543,6 +547,8 @@ footer .theme-by {
 }
 .intro-header.big-img .post-heading .post-meta {
     color: #FFF;
+    font-family: 'Lora', 'Times New Roman', serif;
+    
     /*background: #DC143C;*/
 }
 .intro-header.big-img .img-desc {
