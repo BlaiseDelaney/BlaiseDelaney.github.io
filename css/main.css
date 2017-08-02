@@ -808,7 +808,7 @@ a:focus {
   border-radius: 2px;
   color: #008AFF;
   background-color: #ADD8E6;
-  text-decoration: underline;
+  text-decoration: none;
 }
 .navbar-custom .nav li a:hover{
   background-color: #20B2AA;
