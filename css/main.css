@@ -51,6 +51,7 @@ blockquote {
 color: #DC143C;
 font-style: italic;
 font-size: 21px;
+font-weight: 600;
 }
 
 blockquote p:first-child {
@@ -776,4 +777,13 @@ td.gutter {
 
 strong {
     font-weight: 600;
+}
+a:hover,
+a:focus {
+    color: #DC143C;
+}
+.post-preview a:focus,
+.post-preview a:hover {
+  text-decoration: none;
+  color: #DC143C;
 }

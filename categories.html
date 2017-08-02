@@ -10,11 +10,8 @@ title: Blog Categories
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
-
-    <h4 class="category-head" style="color: #1E90FF;font-size:250%">{{ category_name }}</h4>
+    <p class="category-head" style="color: #1E90FF;font-size:250%; font-family:'Nunito', 'Times New Roman', serif;">{{ category_name }}</p>
     <a name="{{ category_name | slugize }}"></a>
-
     {% for post in site.categories[category_name] %}
 <!--
     <article class="archive-item">
