@@ -20,11 +20,10 @@ There is a lot that can be said on the topic, but to make things a bit more conc
 - Why the UK and not US.
 - How to identify the University and the programme.-->
 
-__Disclaimer__: I have compiled this post to share my experience of applying for a Ph.D. position in High Energy Physics in the U.K. This post details my own personal views on the matter and, as such, they could be (hopefully only in part) erroneous. The steps below, however, allowed me to gain admission to several competitive programmes (with funding) despite me being a not particularly clever student. I hope that these tips might help future applicants as much as they proved instrumental in allowing me to pursue a graduate research position. For any remark on the following, please leave a comment.
+*<u>Disclaimer</u>: I have compiled this post to share my experience of applying for a Ph.D. position in High Energy Physics in the U.K. This post details my own personal views on the matter and, as such, they could be (hopefully only in part) erroneous. The steps below, however, allowed me to gain admission to several competitive programmes (with funding) despite me being a not particularly clever student. I hope that these tips might help future applicants as much as they proved instrumental in allowing me to pursue a graduate research position. For any remark on the following, please leave a comment.*
 
 
 ### Preliminaries
-
 
 - The first question, assuming you found a specific topic/field of research that triggers a spark in your eyes, is _"where?"_. Ph.D. programmes vary in a sizeable way from country to country. UK Ph.D.s normally last about 3.5 to 4 years, while the US programmes are longer, include a masters qualification, and seem to overall for about 5 to 6 years. If you are contemplating applying to some ivy-adorned or a 'Pick-Your-Favourite-State' Institute of Technology and alike in the New Continent, I suggest you take a few minutes to read [Thomas' tips](http://www.maths.tcd.ie/~wysejact/America.html). In general, investigate to the best of your ability the research interests pursued by each group, and try to gauge how prominent their role is within the field. Here are some good resources to find out abou research in Physics: [INSPIRE](https://inspirehep.net), [arXiv](https://arxiv.org), [CERN Document Server](https://cds.cern.ch). 
 - Your references are arguably the most important factor before your interview. Seek out research intenrships with Respected academic active in your preferred field. This will give them time to get to know you and will enrich your application with the (hopefully) positive words of a researcher capable of assessing your potential in their own field of research.
@@ -34,6 +33,7 @@ __Disclaimer__: I have compiled this post to share my experience of applying for
 
 ### Application Submission
 
+
 - Something I like to do before submitting is getting in touch to the academics you'd like to work with. Introduce yourself and ask a couple of specific questions that are relevant to your specific interest; for example, I sought feedback regarding applications of Machine Learning to potential analyses.
 - When compiling your letters explain what you hope to obtain from the programme, what assets can you bring to the Group and why you are a good fit given your background, your interests and your potential to be an enthusiastic student staff would enjoy working with. Again, show awareness of the state of the art and the role the Group played in that field and the avenues explored in cutting-edge research.
 - Ask for feedback from anyone competent willing to read your statement.
@@ -41,6 +41,7 @@ __Disclaimer__: I have compiled this post to share my experience of applying for
 
 
 ### The Interview
+
 
 If you have good grades and reasonable exposure to the field, you should land an interview. Well done! That is already pretty impressive. My pro tip is the following: enjoy the interview. Here is what makes me say this:
 
@@ -51,7 +52,8 @@ If you have good grades and reasonable exposure to the field, you should land an
 > Enjoy this interview. You've done all the work, you're as ready as you can be. Engaging with a panel of researchers is truly a privilege and a great way to show your potential. Have fun and try to learn as much as you can, regardless of the outcome.
 
 
-### Pro Tips to Actually Prepare the Interview:
+### Pro Tips to Actually Prepare the Interview
+
 
 - Be enthusiastic: this should come natural, you should feel the spark in your eyes, don’t be afraid of showing it.
 - Rehearse to get confidence and articulate what you’re going to say. This is probably the most awkward but rewarding bit (I used to talk to myself while cycling to lectures).

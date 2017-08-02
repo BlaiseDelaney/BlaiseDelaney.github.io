@@ -4,7 +4,7 @@
 
 body {
 /*font-family: 'Lora', 'Times New Roman', serif; */
-  font-family: 'Nunito', 'Times New Roman', serif;
+  font-family: 'Raleway', 'Times New Roman', serif;
   font-size: 18px;
   color: #484848;
   /*position: relative;*/
@@ -50,8 +50,8 @@ a:focus {
 blockquote {
 color: #DC143C;
 font-style: italic;
-font-size: 21px;
-font-weight: 600;
+font-size: 20px;
+font-weight: 400;
 }
 
 blockquote p:first-child {
