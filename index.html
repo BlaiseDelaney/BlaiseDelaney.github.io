@@ -57,7 +57,8 @@ With any luck and hard work on my side, you might find something to tickle your 
 	{% endif %}
 	Category:
 	{% for category in categories %}
-	<a href="{{site.baseurl}}/categories/#{{category|slugize}}" style="color: #1E90FF">{{category}}</a>
+	<!--<a href="{{site.baseurl}}/categories/#{{category|slugize}}" style="color: #1E90FF">{{category}}</a>-->
+	<a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
 	{% unless forloop.last %}&nbsp;{% endunless %}
 	{% endfor %}
     </div>

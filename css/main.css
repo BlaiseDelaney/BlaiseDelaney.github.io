@@ -1,9 +1,9 @@
-@import url("pygment_highlights.css");
+@gsimport url("pygment_highlights.css");
 
 /* --- General --- */
 
 body {
-/*font-family: 'Lora', 'Times New Roman', serif; */
+/*font-family: 'Bitter', 'Times New Roman', serif; */
   font-family: 'Raleway', 'Times New Roman', serif;
   font-size: 18px;
   color: #484848;
@@ -20,7 +20,7 @@ p a {
     color: #20B2AA;
 }
 h1{
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Bitter', 'Times New Roman', serif;
   /*font-family: 'Calibri', 'Helvetica Neue', Helvetica, Arial, sans-serif;*/
   font-weight: 800;
   /*background: #66CDAA;*/
@@ -34,7 +34,7 @@ h1{
 
 
 h2,h3,h4,h5,h6 {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Bitter', 'Times New Roman', serif;
   font-weight: 800;
 }
  
@@ -94,7 +94,7 @@ hr:after {
 }
 
 .main-explain-area {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Bitter', 'Times New Roman', serif;
   padding: 15px inherit;
 }
 
@@ -416,6 +416,8 @@ footer .theme-by {
   }
 }
 
+
+
 /* --- Tags --- */
 
 .blog-tags {
@@ -520,17 +522,17 @@ footer .theme-by {
   font-size: 30px;
   line-height: 1.1;
   display: block;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Bitter', 'Times New Roman', serif;
   font-weight: 300;
   margin: 10px 0 0;
   
 }
 .intro-header .page-heading .page-subheading {
   border: 0px transparent;
-  font-size: 30px;
+  font-size: 28px;
   line-height: 1.1;
   display: block;
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Bitter', 'Times New Roman', serif;
   font-weight: 300;
   margin: 10px 0 0;
   
@@ -549,7 +551,7 @@ footer .theme-by {
 }
 .intro-header.big-img .post-heading .post-meta {
     color: #FFF;
-    font-family: 'Lora', 'Times New Roman', serif;
+    font-family: 'Bitter', 'Times New Roman', serif;
     
     /*background: #DC143C;*/
 }
@@ -559,7 +561,7 @@ footer .theme-by {
   padding: 5px 10px;
   font-size: 11px;
   color: #FFF;   /* --------------------_> maybe header*/
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Bitter', 'Times New Roman', serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -654,7 +656,7 @@ footer .theme-by {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Bitter', 'Times New Roman', serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -786,4 +788,25 @@ a:focus {
 .post-preview a:hover {
   text-decoration: none;
   color: #DC143C;
+}
+.post-categories {
+    
+  font-family: 'Raleway', 'Times New Roman', serif;
+  color: "#1E90FF";
+  font-size: 18px;
+}
+
+.post-preview .post-categories a {
+  color: #1E90FF;
+  text-decoration: none;
+  padding: 0px 5px; /*mod used to be 0px 5px */
+}
+
+
+
+.post-preview .post-categories a:hover {
+  border-radius: 2px;
+  color: #008AFF;
+  background-color: #ADD8E6;
+  text-decoration: underline;
 }
