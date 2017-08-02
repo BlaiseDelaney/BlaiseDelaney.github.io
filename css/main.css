@@ -4,11 +4,12 @@
 
 body {
 /*font-family: 'Lora', 'Times New Roman', serif; */
-  font-family: 'Libre Franklin', 'Times New Roman', serif;
+  font-family: 'Nunito', 'Times New Roman', serif;
   font-size: 18px;
   color: #484848;
   /*position: relative;*/
   background: #FF;
+  /*font-weight: 300;*/
 }
 p {
   line-height: 1.5;
@@ -139,7 +140,7 @@ img {
 .navbar-custom {
   background: #dc143;
   border-bottom: 1px solid #EAEAEA;
-  font-family: 'Libre Franklin', 'Helvetica Neue', Helvetica, Arial, sans-serif;/
+  font-family: 'Nunito', 'Helvetica Neue', Helvetica, Arial, sans-serif;/
 }
 
 .navbar-custom .nav li a {
@@ -380,7 +381,7 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Libre Franklin', 'Times New Roman', serif;
+  font-family: 'Nunito', 'Times New Roman', serif;
 }
 .post-entry-container {
   display: inline-block;
@@ -771,4 +772,8 @@ td.gutter {
     .navbar-right{
 	margin-right: 20px;
     }
+}
+
+strong {
+    font-weight: 600;
 }
