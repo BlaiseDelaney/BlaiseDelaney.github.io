@@ -12,7 +12,7 @@ title: Blog Categories
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
 
-    <a class="category-head" style="color: #1E90FF">{{ category_name }}</a>
+    <h4 class="category-head" style="color: #1E90FF;font-size:250%">{{ category_name }}</h4>
     <a name="{{ category_name | slugize }}"></a>
 
     {% for post in site.categories[category_name] %}
