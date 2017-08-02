@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ph.D. Application Advice
+title: PhD Application Advice
 subtitle: A few tips I learnt along the way.
 bigimg: /img/sea.jpeg
 categories: Physics
@@ -9,23 +9,23 @@ tags: research academia
 
 
 
-So you are contemplating pursuing a Ph.D., impressive. Before diving into the nitty-gritty of applying, I think it's worth spending a little while expanding on why I decided to pursue graduate research. I was fortunate enough to attend the CERN Summer Programme a while back, and the prospect of joining an international experimenatal collaboration to tackle some of the open questions of fundamental science has since been my chief priority. I am unsure about whether there is a unique, well-defined set of reasons that should convince you to pursue a Ph.D. or not. However, if you feel like you harbour a genuine passion for a subject and you think you could (and _enjoy_) make an original contribution to the state of the art of your respective field of interest, my guess is that you're on the right track. 
+So you are contemplating pursuing a PhD, *impressive*. Before diving into the nitty-gritty of applying, I think it's worth spending a little while expanding on why I decided to pursue graduate research. I was fortunate enough to attend the CERN Summer Programme a while back, and the prospect of joining an international experimenatal collaboration to tackle some of the open questions of fundamental science has since been my chief priority. I am unsure about whether there is a unique, well-defined set of reasons that should convince you to pursue a Ph.D. or not. However, if you feel like you harbour a genuine passion for a subject and you think you could (and _enjoy_) make an original contribution to the state of the art of your respective field of interest, my guess is that you're on the right track. 
 
 There is a lot that can be said on the topic, but to make things a bit more concise, I decided to compile a list of steps. Perhaps you could use what follows as a checklist (or not).
 
 
 <!--The following three points will be expanded upon in a further edit.
 
--  Why a Ph.D.  (why pursue research - attitude, CERN Summer Programme, passion - and link to Blog post about what I expect of my Ph.D. right now, without knowing much but sure that this view will change)
+-  Why a PhD  (why pursue research - attitude, CERN Summer Programme, passion - and link to Blog post about what I expect of my Ph.D. right now, without knowing much but sure that this view will change)
 - Why the UK and not US.
 - How to identify the University and the programme.-->
 
-*<u>Disclaimer</u>: I have compiled this post to share my experience of applying for a Ph.D. position in High Energy Physics in the U.K. This post details my own personal views on the matter and, as such, they could be (hopefully only in part) erroneous. The steps below, however, allowed me to gain admission to several competitive programmes (with funding) despite me being a not particularly clever student. I hope that these tips might help future applicants as much as they proved instrumental in allowing me to pursue a graduate research position. For any remark on the following, please leave a comment.*
+*<u>Disclaimer</u>: I have compiled this post to share my experience of applying for a PhD position in High Energy Physics in the U.K. This post details my own personal views on the matter and, as such, they could be (hopefully only in part) erroneous. The steps below, however, allowed me to gain admission to several competitive programmes (with funding) despite me being a not particularly clever student. I hope that these tips might help future applicants as much as they proved instrumental in allowing me to pursue a graduate research position. For any remark on the following, please leave a comment.*
 
 
 ### Preliminaries
 
-- The first question, assuming you found a specific topic/field of research that triggers a spark in your eyes, is _"where?"_. Ph.D. programmes vary in a sizeable way from country to country. UK Ph.D.s normally last about 3.5 to 4 years, while the US programmes are longer, include a masters qualification, and seem to overall for about 5 to 6 years. If you are contemplating applying to some ivy-adorned or a 'Pick-Your-Favourite-State' Institute of Technology and alike in the New Continent, I suggest you take a few minutes to read [Thomas' tips](http://www.maths.tcd.ie/~wysejact/America.html). In general, investigate to the best of your ability the research interests pursued by each group, and try to gauge how prominent their role is within the field. Here are some good resources to find out abou research in Physics: [INSPIRE](https://inspirehep.net), [arXiv](https://arxiv.org), [CERN Document Server](https://cds.cern.ch). 
+- The first question, assuming you found a specific topic/field of research that triggers a spark in your eyes, is _"where?"_. PhD programmes vary in a sizeable way from country to country. UK Ph.D.s normally last about 3.5 to 4 years, while the US programmes are longer, include a masters qualification, and seem to overall for about 5 to 6 years. If you are contemplating applying to some ivy-adorned or a 'Pick-Your-Favourite-State' Institute of Technology and alike in the New Continent, I suggest you take a few minutes to read [Thomas' tips](http://www.maths.tcd.ie/~wysejact/America.html). In general, investigate to the best of your ability the research interests pursued by each group, and try to gauge how prominent their role is within the field. Here are some good resources to find out abou research in Physics: [INSPIRE](https://inspirehep.net), [arXiv](https://arxiv.org), [CERN Document Server](https://cds.cern.ch). 
 - Your references are arguably the most important factor before your interview. Seek out research intenrships with Respected academic active in your preferred field. This will give them time to get to know you and will enrich your application with the (hopefully) positive words of a researcher capable of assessing your potential in their own field of research.
 - Funding: the real hurdle. Make sure you gauge the realistic chances of you getting any financial support throughout the programme. 
 - Visit the Departments! Get a feel of the place! A good fit with your supervisor and you group is of paramount importance.
@@ -74,7 +74,7 @@ If you have good grades and reasonable exposure to the field, you should land an
 
 
 
-*If you have made the auspicious decision of starting to gauge what Ph.D. life and applications might be like prior to your last year of undergrad (like I did) well done! Pro Tip: get as much exposure to different areas of research and through most diverse/international programmes as possible (list coming soon) - I tried Condensed Matter Physics, Theoretical Physics (QCD in a very basic group theory formalism), Cosmology (Dark Energy Survey), HEP-ex with focus on B-physics and sizeable exposure to data analysis through machine learning. Arguably research experience not only will make you stand out but also inform you on what life is like as a researcher in that given topic.*
+*If you have made the auspicious decision of starting to gauge what PhD life and applications might be like prior to your last year of undergrad (like I did) well done! Pro Tip: get as much exposure to different areas of research and through most diverse/international programmes as possible (list coming soon) - I tried Condensed Matter Physics, Theoretical Physics (QCD in a very basic group theory formalism), Cosmology (Dark Energy Survey), HEP-ex with focus on B-physics and sizeable exposure to data analysis through machine learning. Arguably research experience not only will make you stand out but also inform you on what life is like as a researcher in that given topic.*
 
 
 *Best of luck, and feel free to get in touch for any further questions or feedback. I am always happy to help, subject to availability*. Thanks for reading.
