@@ -78,4 +78,6 @@ If you have good grades and reasonable exposure to the field, you should land an
 *If you have made the auspicious decision of starting to gauge what PhD life and applications might be like prior to your last year of undergrad (like I did) well done! Pro Tip: get as much exposure to different areas of research and through most diverse/international programmes as possible (list coming soon) - I tried Condensed Matter Physics, Theoretical Physics (QCD in a very basic group theory formalism), Cosmology (Dark Energy Survey), HEP-ex with focus on B-physics and sizeable exposure to data analysis through machine learning. Arguably research experience not only will make you stand out but also inform you on what life is like as a researcher in that given topic.*
 
 
-*Best of luck, and feel free to get in touch for any further questions or feedback. I am always happy to help, subject to availability*. Thanks for reading.
+*Best of luck, and feel free to get in touch for any further questions or feedback. I am always happy to help, subject to availability*. 
+
+Thanks for reading. &#9640;
