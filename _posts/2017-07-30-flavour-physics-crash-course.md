@@ -2,7 +2,8 @@
 layout: post
 title: Intro to Flavour Physics
 subtitle: A Gentle Recap. 
-bigimg: /img/Mug.jpeg
+bigimg: 
+  - /img/Mug.jpeg : "My CERN Mug."
 categories: Physics
 tags: research  
 ---

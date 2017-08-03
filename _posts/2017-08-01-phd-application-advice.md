@@ -2,7 +2,8 @@
 layout: post
 title: PhD Application Advice
 subtitle: A few tips I learnt along the way.
-bigimg: /img/sea.jpeg
+bigimg: 
+  - /img/sea.jpeg : "Wexford, Ireland"
 categories: Physics
 tags: research academia 
 ---

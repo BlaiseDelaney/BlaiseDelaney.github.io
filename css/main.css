@@ -796,6 +796,20 @@ a:focus {
   font-size: 18px;
 }
 
+.post-categories a {
+  color: #1E90FF;
+  text-decoration: none;
+  padding: 0px 5px; /*mod used to be 0px 5px */
+}
+
+
+
+.post-categories a:hover {
+  border-radius: 2px;
+  color: #008AFF;
+  background-color: #ADD8E6;
+  text-decoration: none;
+}
 .post-preview .post-categories a {
   color: #1E90FF;
   text-decoration: none;
@@ -814,3 +828,13 @@ a:focus {
   background-color: #20B2AA;
   color: #FFF;
 }  
+
+.blog-tags a:hover {
+  border-radius: 2px;
+  background-color: #CCC;
+  
+}
+
+.intro-header.big-img .img-desc{
+    font-family: 'Raleway', 'Times New Roman', serif;
+}
