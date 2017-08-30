@@ -674,8 +674,8 @@ footer .theme-by {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #F08080;
-  border: 1px solid #DC143C;
+  background: #DC143C;
+  border: 1px solid #B22222;
 }
 
 .pager {
